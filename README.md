@@ -27,3 +27,11 @@
 
 ### Python -- веб (backend), DS+ML+DL, операционная деятельность (Тестирование, Утилиты, Поддержка)
 
+## Problems(from course):
+* First day problems: https://contest.yandex.ru/contest/17296/problems/
+
+
+## Problems:
+* https://www.codewars.com
+* https://leetcode.com
+* https://codeforces.com/problemset?order=BY_SOLVED_DESC
