@@ -1,4 +1,11 @@
 age = int(input())
+sex = input() # f m
+# sign = input()
+
+# if sign == "+":
+#     ...... 
+# elif sign == "-":
+#     ,,.....
 
 # Если < 16 --- товары для школы + игрушки 
 # Иначе если >= 16 и < 21 --- предложения о работе + музыкальные инструменты 
@@ -8,8 +15,16 @@ age = int(input())
 
 if age < 16:
     print("товары для школы + игрушки ")
+    if sex == "f":
+        print(".....")
+    else:
+        print("...another...")
 elif age >= 16 and age < 21:
     print("предложения о работе + музыкальные инструменты ")
+    if sex == "f":
+        print("a.a.a.a.")
+    else:
+        print(".bb.b.b.")
 elif age >= 21 and age < 35:
     print("образовательные штуки ")
 elif age >= 35 and age < 55:
