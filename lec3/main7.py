@@ -8,7 +8,14 @@ age = int(input())
 
 if age < 16:
     print("товары для школы + игрушки ")
-if age >= 16 and age < 21:
+elif age >= 16 and age < 21:
     print("предложения о работе + музыкальные инструменты ")
+elif age >= 21 and age < 35:
+    print("образовательные штуки ")
+elif age >= 35 and age < 55:
+    print("квартиры ")
 else:
     print("товары для дачи")
+
+#Условный оператор множественного выбора
+print("AFTER IF/ELIF/ELSE BLOCK")
