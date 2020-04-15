@@ -30,6 +30,7 @@
 ## Problems(from course):
 * First day problems: https://contest.yandex.ru/contest/17296/problems/
 * Second day problems: https://contest.yandex.ru/contest/17950/problems/
+* Third Day problems: https://contest.yandex.ru/contest/17998/problems/
 
 
 ## Problems:
