@@ -13,3 +13,5 @@ print("Difference A-B:", e_set)
 f_set = a_set.union(b_set) - a_set.intersection(b_set)
 g_set = a_set ^ b_set  #b_set ^ a_set
 print("Symmetric difference:", g_set)
+
+
