@@ -1,0 +1,6 @@
+a_set = set([1,2,3,4,5,6,-1,2,3,4])
+print(a_set)
+print("Max:", max(a_set))
+print("Min:", min(a_set))
+print("Sum:", sum(a_set))
+print('Avg:', sum(a_set) / len(a_set))
